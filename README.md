@@ -1,8 +1,8 @@
 # MimiccAI Android 下载
 
-最新版本 **0.1.0+13**：[直接下载 APK](https://github.com/johnny-ggao/mimiccai-android-releases/releases/download/android-v0.1.0-internal.13/mimiccai-android-0.1.0-internal.13.apk)。可覆盖更新旧版，无需卸载。
+最新版本 **0.1.0+14**：[直接下载 APK](https://github.com/johnny-ggao/mimiccai-android-releases/releases/download/android-v0.1.0-internal.14/mimiccai-android-0.1.0-internal.14.apk)。可覆盖更新旧版，无需卸载。
 
-此版本整体收紧按钮、页面留白、卡片、表单和分组间距，覆盖智能体、交易、策略、资产、个人中心及二级页面，沿用新版资产页的字号与字重，继续支持应用内更新：启动时后台检查，个人中心 → 版本更新可手动检查、下载并调用系统确认安装。旧版请先手动覆盖安装此版本一次，保留应用数据。首次使用应用内安装时，按系统提示允许 MimiccAI 安装此来源的应用。
+此版本重新设计智能体对话流：正文与查询过程分层、可展开来源、完整Markdown表格/代码和复制回复；优化流式跟随与上滑阅读，保留紧凑字号与间距，继续支持应用内更新：启动时后台检查，个人中心 → 版本更新可手动检查、下载并调用系统确认安装。旧版请先手动覆盖安装此版本一次，保留应用数据。首次使用应用内安装时，按系统提示允许 MimiccAI 安装此来源的应用。
 
 此仓库仅提供 Android 内部测试安装包，不包含应用源码。
 
