@@ -1,8 +1,8 @@
 # MimiccAI Android 下载
 
-最新版本 **0.1.0+18**：[直接下载 APK](https://github.com/johnny-ggao/mimiccai-android-releases/releases/download/android-v0.1.0-internal.18/mimiccai-android-0.1.0-internal.18.apk)。可覆盖更新旧版，无需卸载。
+最新版本 **0.1.0+19**：[直接下载 APK](https://github.com/johnny-ggao/mimiccai-android-releases/releases/download/android-v0.1.0-internal.19/mimiccai-android-0.1.0-internal.19.apk)。可覆盖更新旧版，无需卸载。
 
-此版本重新设计持仓止盈止损抽屉，并将平仓改为当前页面内的抽屉，支持比例数量与确认核对；继续支持应用内更新：启动时后台检查，个人中心 → 版本更新可手动检查、下载并调用系统确认安装。旧版请先手动覆盖安装此版本一次，保留应用数据。首次使用应用内安装时，按系统提示允许 MimiccAI 安装此来源的应用。
+此版本消除平仓和止盈止损打开、取消时的重复加载；持仓与委托后台更新保留内容和操作，交易前继续核对最新数据；继续支持应用内更新：启动时后台检查，个人中心 → 版本更新可手动检查、下载并调用系统确认安装。旧版请先手动覆盖安装此版本一次，保留应用数据。首次使用应用内安装时，按系统提示允许 MimiccAI 安装此来源的应用。
 
 此仓库仅提供 Android 内部测试安装包，不包含应用源码。
 
