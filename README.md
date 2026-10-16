@@ -1,5 +1,7 @@
 # MimiccAI Android 下载
 
+最新版本 **0.1.0+3**：[直接下载 APK](https://github.com/johnny-ggao/mimiccai-android-releases/releases/download/android-v0.1.0-internal.3/mimiccai-android-0.1.0-internal.3.apk)。可覆盖更新旧版，无需卸载。
+
 此仓库仅提供 Android 内部测试安装包，不包含应用源码。
 
 [进入下载页](https://github.com/johnny-ggao/mimiccai-android-releases/releases)
